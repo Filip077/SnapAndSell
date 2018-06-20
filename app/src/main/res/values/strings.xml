@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SnapAndSell</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">REGISTER</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password_again">Confirm Pasword</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="upload">UPLOAD</string>
+    <string name="buy">BUY</string>
+    <string name="Price">Price</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="select_picture">Select picture</string>
+</resources>

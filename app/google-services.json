@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "424202052228",
+    "firebase_url": "https://snapandsell-e7ee9.firebaseio.com",
+    "project_id": "snapandsell-e7ee9",
+    "storage_bucket": "snapandsell-e7ee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424202052228:android:b125d8dbfc8af12f",
+        "android_client_info": {
+          "package_name": "com.newproject.snapandsell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424202052228-tahgg6sa6splha94gcr8ia7hml92e0t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuuI2BbSwh4PaGDhlKM1kPEmpfk5jSiVI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
